@@ -4,7 +4,7 @@
   <groupId>org.example</groupId>
   <artifactId>javaPersistanceExercises</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - javaPersistanceExercises</name>
+  <name>Archetype - javaPersistenceExercises</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
@@ -22,7 +22,7 @@
     <dependency>
       <groupId>com.mysql</groupId>
       <artifactId>mysql-connector-j</artifactId>
-      <version>8.3.0</version>
+      <version>9.1.0</version>
     </dependency>
   </dependencies>
 </project>
